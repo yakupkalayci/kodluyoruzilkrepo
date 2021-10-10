@@ -1,2 +1,3 @@
 # kodluyoruzilkrepo
-Kodluyouz Front-End eğitimi kapsamında açtığım ilk repo
+[Kodluyouz](https://kodluyoruz.org) Front-End eğitimi kapsamında açtığım ilk repo. İçerisinde index.html ve README dosyalarını barındırıyor.
+
